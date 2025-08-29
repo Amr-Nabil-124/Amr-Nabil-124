@@ -9,7 +9,7 @@
 
 I’m Amr, a Computer Engineering student at **Nile University** with a strong focus on **Machine Learning, AI, and Software Development**. I’ve co-founded **Vitae**, a student housing platform, and built projects in face recognition and signal processing. Passionate about combining technology and entrepreneurship, I aim to create solutions with real-world impact.
 
-I've completed internships and training with organisations like **National Telecommunication Institute (NTI)** and **ALX Africa**, and contributed to education through managment and coordination roles with **NUICPC Community** and **Nile University**.
+I've completed internships and training with organisations like **National Telecommunication Institute (NTI)** and **ALX Africa**, and contributed to education through management and coordination roles with **NUICPC Community** and **Nile University**.
 
 ---
 
@@ -17,7 +17,7 @@ I've completed internships and training with organisations like **National Telec
 
 Here are a few of the projects I’ve worked on:
 
-- **🛒 **  
+- **🛒**  
   ASP.NET Core | Clean Architecture | JWT | Stripe | Redis  
   Scalable backend with secure authentication and payment integration.
 
