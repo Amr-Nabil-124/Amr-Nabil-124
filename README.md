@@ -17,40 +17,35 @@ I've completed internships and training with organisations like **National Telec
 
 Here are a few of the projects I’ve worked on:
 
-- **🛒**  
-  ASP.NET Core | Clean Architecture | JWT | Stripe | Redis  
-  Scalable backend with secure authentication and payment integration.
-
-- **🌐 Portfolio Website**  
-  ASP.NET Core | SQL Server | HTML/CSS  
-  A professional portfolio with dynamic content management.
-
+- **🎓 Student Academic Performance Predictor**  
+  Python | Pandas | NumPy | scikit-learn | XGBoost | Matplotlib/Seaborn  
+  Built an XGBoost model (97.1% acc) to predict student grades from attendance/study features, with actionable insights delivered in a notebook + deck.
+  
+- **👤✔️ Face Recognition**  
+  Python | OpenCV | face_recognition | Tesseract OCR | Flask
+  Built a Flask API for identity verification using OpenCV, face_recognition, and Tesseract OCR, with liveness detection and ID photo matching.
+  
 ---
 
 ## 🧰 Tech Stack & Tools
 
-- **Languages**: C#, Python, C++, HTML, CSS, JavaScript, SQL  
-- **Frameworks**: ASP.NET Core MVC & APIs, EF Core, LINQ  
-- **Tools**: Visual Studio, VS Code, Postman, PyCharm, Figma, Adobe XD  
-- **Platforms**: GitHub, Linux
+- **Languages**: C++, Python, Matlab/Octave, HTML, CSS, SQL (MySQL, NoSQL) 
+- **Tools**: Visual Studio, VS Code, Postman, Google Colab, Jupyter Notebook, Figma, Adobe Suite  
 
 ---
 
 ## 🌟 Highlights
 
-- 🎖️ **43rd Place** out of 230 teams in **ECPC Qualifications 2023**
-- 👥 Active in **IEEE** and **Google Developer Student Club** as a PR Specialist
-- 👨‍🏫 Taught programming fundamentals to 25+ students and led technical sessions
+- 🎖️ **1st Place** out of 800+ teams in **UGRF 2024**
+- 👥 Active in **ICPCN NU** and **** as a Media & Marketing Specialist
 
 ---
 
 ## 📫 Let's Connect!
 
-- 📧 [Email](mailto:eng.abdallaelsaiedali@gmail.com)
+- 📧 [Email](mailto:amrsalama124@yahoo.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdallah-elsaied-3a4972248/)
-- 💻 [GitHub](https://github.com/Abdalla-Elsaied)
-- 🧠 [Codeforces](https://codeforces.com/profile/Abdalla-Elsaied)
 
 ---
 
-*“Code with purpose, build with passion.”*
+*“Trust the process.”*
