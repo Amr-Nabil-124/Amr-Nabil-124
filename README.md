@@ -44,7 +44,7 @@ Here are a few of the projects I’ve worked on:
 ## 📫 Let's Connect!
 
 - 📧 [Email](mailto:amrsalama124@yahoo.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/abdallah-elsaied-3a4972248/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/amrnabil124/)
 
 ---
 
