@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amr Nabil
 
-🎓 **Computer Engineering Student** at Nile University (Graduating 2027)  
+🎓 **Computer Engineering Student** at Nile University  
 🧠 Passionate about **Machine Learning**, AI, and building impactful tech solutions.
 
 ---
@@ -13,15 +13,13 @@ I've completed internships and training with organisations like **National Telec
 
 ---
 
-## 🚀 Projects
+## 📂 Projects  
 
-Here are a few of the projects I’ve worked on:
-
-- **🎓 Student Academic Performance Predictor**  
+- [**🎓 Student Academic Performance Predictor**]()<br>
   Python | Pandas | NumPy | scikit-learn | XGBoost | Matplotlib/Seaborn  
   Built an XGBoost model (97.1% acc) to predict student grades from attendance/study features, with actionable insights delivered in a notebook + deck.
   
-- **👤✔️ Face Recognition**  
+- [**👤✔️ Face Recognition**](https://github.com/Amr-Nabil-124/Neural-Faces)<br>
   Python | OpenCV | face_recognition | Tesseract OCR | Flask
   Built a Flask API for identity verification using OpenCV, face_recognition, and Tesseract OCR, with liveness detection and ID photo matching.
   
@@ -36,15 +34,16 @@ Here are a few of the projects I’ve worked on:
 
 ## 🌟 Highlights
 
-- 🎖️ **1st Place** out of 800+ teams in **UGRF 2024**
-- 👥 Active in **ICPCN NU** and **** as a Media & Marketing Specialist
+- 💻 [ECPC](https://www.instagram.com/ecpc_news/?hl=en) 2025 Participant 
+- 🎖️ **3rd Place** out of 800+ teams in the **UGRF 2025** - Business Administration Track 
+- 👥 Active in [**NU ICPC**](https://www.instagram.com/nu.icpc/) and [**Nile University Student Union**](https://www.instagram.com/nustudentunion/) as a Media & Marketing Specialist
 
 ---
 
 ## 📫 Let's Connect!
 
-- 📧 [Email](mailto:amrsalama124@yahoo.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/amrnabil124/)
+<a href="https://www.linkedin.com/in/amrnabil124/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:amrsalama124@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ---
 
