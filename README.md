@@ -15,7 +15,7 @@ I've completed internships and training with organisations such as the **Nationa
 
 ## 📂 Projects  
 
-- [**🎓 Student Academic Performance Predictor**]()<br>
+- [**🎓 Student Academic Performance Predictor**](https://github.com/Amr-Nabil-124/Student-Academic-Performance-Predictor)<br>
   Python | Pandas | NumPy | scikit-learn | XGBoost | Matplotlib/Seaborn <br>
   Built an XGBoost model (97.1% accuracy) to predict student grades from attendance/study features, with actionable insights delivered in a notebook + deck.
   
