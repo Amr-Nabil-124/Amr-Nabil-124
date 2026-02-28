@@ -36,7 +36,7 @@ I've completed internships and training with organisations such as the **Nationa
 
 - 💻 [**ECPC 2025**](https://www.instagram.com/ecpc_news/?hl=en) Participant 
 - 🎖️ [**3rd Place**](https://www.instagram.com/p/DNntx5qyeFS/) out of 800+ teams in the **UGRF 2025** - Business Administration Track 
-- 👥 Active in [**NU ICPC**](https://www.instagram.com/nu.icpc/) and [**Nile University Student Union**](https://www.instagram.com/nustudentunion/) as a Media & Marketing Specialist
+- 👥 Active in [**NU ICPC**](https://www.instagram.com/nu.icpc/) and [**Nile University Student Union**](https://www.instagram.com/nustudentunion/) as a Media & Marketing Specialist and the Engineering Representative of my class 
 
 ---
 
